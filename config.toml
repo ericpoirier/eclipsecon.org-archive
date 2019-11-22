@@ -1,4 +1,4 @@
-baseurl = "https://www.eclipsecon.org/"
+baseurl = "https://eclipsefdn-eclipsecon-archive.netlify.com/"
 DefaultContentLanguage = "en"
 title = "eclipsecon.org"
 theme = "eclipsefdn-hugo-solstice-theme"
