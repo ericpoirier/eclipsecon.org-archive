@@ -23,9 +23,9 @@ enableRobotsTXT = true
 [Author]
   name = "Christopher Guindon"
   website = "https://www.eclipse.org"
-  email = "webdev@eclipse-foundation.org"
+  email = "info@eclipsecon.org"
   facebook = "eclipse.org"
-  twitter = "EclipseFdn"
+  twitter = "EclipseCon"
   youtube = "EclipseFdn"
   googleplus = "+Eclipse"
   linkedin = "company/eclipse-foundation/"
