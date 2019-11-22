@@ -1,2 +1,2 @@
 # eclipsecon.org-archive
-Static archive of EclispeCon websites.
+Static archive of EclipseCon websites.
