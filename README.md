@@ -1,8 +1,6 @@
 # eclipsecon.org-archive
 
-The [https://eclipsefdn-opengenesis.netlify.com](https://eclipsefdn-opengenesis.netlify.com) website is generated with [Hugo](https://gohugo.io/documentation/). This project is a work in progress. 
-
-The mission of the openGENESIS Working Group is to provide methods and tools for the assessment of artificial intelligence (AI) used for autonomous driving.
+The [https://eclipsefdn-eclipsecon-archive.netlify.com](https://eclipsefdn-eclipsecon-archive.netlify.com) website is generated with [Hugo](https://gohugo.io/documentation/). 
 
 [![Build Status](https://travis-ci.org/eclipsefdn/eclipsecon.org-archive.svg?branch=master)](https://travis-ci.org/eclipsefdn/eclipsecon.org-archive)
 

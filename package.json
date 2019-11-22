@@ -1,5 +1,5 @@
 {
-  "name": "eclipsefdn-hugo-opengenesis",
+  "name": "eclipsefdn-hugo-eclipsecon-archive",
   "description": "Source code for eclipsecon.org-archive",
   "main": "webpack.min.js",
   "author": "Christopher Guindon",
