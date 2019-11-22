@@ -1,0 +1,22 @@
+{
+  "name": "eclipsefdn-hugo-opengenesis",
+  "description": "Source code for eclipsecon.org-archive",
+  "main": "webpack.min.js",
+  "author": "Christopher Guindon",
+  "license": "EPL-2.0",
+  "version": "0.0.0",
+  "bugs": {
+    "url": "https://github.com/eclipsefdn/eclipsecon.org-archive/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eclipsefdn/eclipsecon.org-archive.git"
+  },
+  "scripts": {
+    "disallow_robots_txt": "echo \"User-agent: *\r\nDisallow: /\" > layouts/robots.txt",
+    "build_netlify": "npm run disallow_robots_txt"
+  },
+  "dependencies": {
+    "eclipsefdn-hugo-solstice-theme": "0.0.41"
+  }
+}
