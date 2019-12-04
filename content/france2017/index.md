@@ -423,10 +423,7 @@ disable_css: "true"
         <div
           class="view view-eclipsecon-sponsors view-id-eclipsecon_sponsors view-display-id-block container view-dom-id-fd4046dc593c817bb11faf7bccba54a9">
           <div class="view-header">
-            For information about becoming a sponsor, please visit the
-            EclipseCon France2017 <a
-              href="https://www.eclipsecon.php55.dev.docker/france2017/prospectus">sponsor
-              prospectus</a> page.
+            For information about becoming a sponsor, please send an email to <a href="sponsors@eclipsecon.org">sponsors@eclipsecon.org</a>.
           </div>
           <div class="view-content">
             <div class="wrapper-sponsor-level">
