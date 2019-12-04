@@ -20,3 +20,4 @@ mix.options({uglify: {uglifyOptions: {compress: false, output: {comments: true}}
 mix.less('./less/france2018/styles.less', './content/france2018/styles.css');
 mix.less('./less/france2017/styles.less', './content/france2017/styles.css');
 mix.less('./less/europe2017/styles.less', './content/europe2017/styles.css');
+mix.less('./less/europe2016/styles.less', './content/europe2016/styles.css');

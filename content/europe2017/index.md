@@ -438,7 +438,7 @@ additional_logo: "images/osgi-logo.png"
                 alt="Wed, 2017-10-25 15:08 - DSC_0762"
                 title="Wed, 2017-10-25 15:08 - DSC_0762"></a>
                     </div>
-                    <p class="text-center margin-top-20"><a class="btn btn-primary" href="https://www.flickr.com/search/?group_id=3955864@N24&amp;per_page=40&amp;tag_mode=any&amp;q=&amp;radius=&amp;min_taken_date=&amp;max_taken_date=&amp;sort=&amp;media=photos">View all photos on Flickr</a></p>
+                    <p class="text-center margin-top-20"><a class="btn btn-primary" href="https://www.flickr.com/search/?group_id=3656402@N25&amp;per_page=40&amp;tag_mode=any&amp;q=&amp;radius=&amp;min_taken_date=&amp;max_taken_date=&amp;sort=&amp;media=photos">View all photos on Flickr</a></p>
                   </div>
                 </div>
               </section>
