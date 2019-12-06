@@ -23,3 +23,4 @@ mix.less('./less/europe2017/styles.less', './content/europe2017/styles.css');
 mix.less('./less/europe2016/styles.less', './content/europe2016/styles.css');
 mix.less('./less/europe2015/styles.less', './content/europe2015/styles.css');
 mix.less('./less/europe2014/styles.less', './content/europe2014/styles.css');
+mix.less('./less/europe2013/styles.less', './content/europe2013/styles.css');
