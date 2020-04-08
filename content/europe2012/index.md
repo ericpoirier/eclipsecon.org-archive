@@ -5,4 +5,4 @@ description: "Conference for the Eclipse Ecosystem | October 29 - 31, 2014 | LUD
 page_favicon: "europe2013/favicon.ico"
 ---
 
-{{< europe2013 >}}
+{{< europe2012 >}}
