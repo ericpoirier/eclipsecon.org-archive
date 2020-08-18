@@ -88,7 +88,7 @@
           id="footer-working-group-left">
           <p><img
             class="logo-eclipse-default img-responsive float-left"
-            src="images/logo.png" alt="Home">
+            src="images/{{ if isset .Page.Params "footer_logo" }}{{.Page.Params.footer_logo}}{{else}}logo.png{{end}}" alt="Home">
           {{ if isset .Page.Params "additional_logo" }}
             <a class="osgi-link" href="https://www.osgi.org/2017-osgi-community-event" title="OSGi Community Events">
               <img class="logo-eclipse-default img-responsive" src="{{ .Page.Params.additional_logo }}" alt="OSGi Community Event">
