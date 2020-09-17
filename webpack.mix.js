@@ -14,14 +14,45 @@
 mix = require('laravel-mix');
 mix.options({uglify: {uglifyOptions: {compress: false, output: {comments: true}}}});
 
-//mix.setPublicPath('static');
-//mix.setResourceRoot('../');
+mix.setPublicPath('content');
+mix.setResourceRoot('../');
 
-mix.less('./less/france2018/styles.less', './content/france2018/styles.css');
+mix.less('./less/2004/styles.less', './content/2004/styles.css');
+mix.less('./less/2005/styles.less', './content/2005/styles.css');
+mix.less('./less/2006/styles.less', './content/2006/styles.css');
+mix.less('./less/2007/styles.less', './content/2007/styles.css');
+mix.less('./less/2008/styles.less', './content/2008/styles.css');
+mix.less('./less/2009/styles.less', './content/2009/styles.css');
+mix.less('./less/2010/styles.less', './content/2010/styles.css');
+mix.less('./less/2011/styles.less', './content/2011/styles.css');
+mix.less('./less/2012/styles.less', './content/2012/styles.css');
+mix.less('./less/2013/styles.less', './content/2013/styles.css');
+
+mix.less('./less/france2013/styles.less', './content/france2013/styles.css');
+mix.less('./less/france2014/styles.less', './content/france2014/styles.css');
+mix.less('./less/france2015/styles.less', './content/france2015/styles.css');
+mix.less('./less/france2016/styles.less', './content/france2016/styles.css');
 mix.less('./less/france2017/styles.less', './content/france2017/styles.css');
-mix.less('./less/europe2017/styles.less', './content/europe2017/styles.css');
-mix.less('./less/europe2016/styles.less', './content/europe2016/styles.css');
-mix.less('./less/europe2015/styles.less', './content/europe2015/styles.css');
-mix.less('./less/europe2014/styles.less', './content/europe2014/styles.css');
-mix.less('./less/europe2013/styles.less', './content/europe2013/styles.css');
+mix.less('./less/france2018/styles.less', './content/france2018/styles.css');
+
+
+mix.less('./less/europe2011/styles.less', './content/europe2011/styles.css');
 mix.less('./less/europe2012/styles.less', './content/europe2012/styles.css');
+mix.less('./less/europe2013/styles.less', './content/europe2013/styles.css');
+mix.less('./less/europe2014/styles.less', './content/europe2014/styles.css');
+mix.less('./less/europe2015/styles.less', './content/europe2015/styles.css');
+mix.less('./less/europe2016/styles.less', './content/europe2016/styles.css');
+mix.less('./less/europe2017/styles.less', './content/europe2017/styles.css');
+
+mix.less('./less/locationcon2017/styles.less', './content/locationcon2017/styles.css');
+
+mix.less('./less/na2014/styles.less', './content/na2014/styles.css');
+mix.less('./less/na2015/styles.less', './content/na2015/styles.css');
+mix.less('./less/na2016/styles.less', './content/na2016/styles.css');
+mix.less('./less/na2017/styles.less', './content/na2017/styles.css');
+
+mix.less('./less/summiteurope2006/styles.less', './content/summiteurope2006/styles.css');
+mix.less('./less/summiteurope2007/styles.less', './content/summiteurope2007/styles.css');
+mix.less('./less/summiteurope2008/styles.less', './content/summiteurope2008/styles.css');
+mix.less('./less/summiteurope2009/styles.less', './content/summiteurope2009/styles.css');
+mix.less('./less/summiteurope2010/styles.less', './content/summiteurope2010/styles.css');
